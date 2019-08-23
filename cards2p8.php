@@ -30,7 +30,7 @@
 				
 				if (($this->NAME != "") && ($AUTO_GET_POST)) { $this->getPost($DEFAULT); }
 				
-				if (($TYPE >= 0) && ($TYPE <= 2)) { $this->TYPE = $TYPE; }
+				if (($TYPE >= 0) && ($TYPE <= 3)) { $this->TYPE = $TYPE; }
 				else { $this->TYPE = 0; }
 				
 				$this->DEFAULT = $DEFAULT;
