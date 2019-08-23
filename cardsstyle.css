@@ -1,0 +1,48 @@
+body {
+	padding: 0px;
+	margin: 0px;
+    background-color: black;
+	
+	overflow-y: scroll;
+	
+	color: white;
+}
+td {
+	font-family: monospace;
+	font-size: 12px;
+}
+
+input[type="text"], input[type="submit"] {
+	border: 1px black solid;
+	background-color: rgba(255, 255, 255, .2);
+	padding: 5px;
+	margin: 0px;
+	color: white;
+}
+
+input[type="submit"] {
+	width: 100%;
+	border: 1px #444 solid;
+}
+
+#bgA {
+	background-color: #555;
+	color: white;
+}
+
+#bgB {
+	background-color: #777;
+	color: white;
+}
+
+#HeaderA, #HeaderB, #HeaderC {
+	padding: 20px 0px 20px 0px;
+	
+	font-size: 30px;
+	font-weight: bold;
+	font-family: new courier;
+	
+	text-align: center;
+	
+	background-color: #aaa;
+}
