@@ -4,7 +4,9 @@
 So there are a few examples of the card sorter I have built.
 
 ### A bit of back information on this.
-So there are many times when some sort of collation is needed. Sports cards, trading cards, etc. They are in mixed lots and I need a way to quick log the information per card and qty, build a fast html table or cvs data spread for excel. That is where this evolved from, a need because notepad was not cutting the mustard.
+So there are many times when some sort of collation is needed. Sports cards, trading cards, etc. They are in mixed lots and I need a way to quick log the information per card and qty, build a fast html table or cvs data spread for excel. That is where this evolved from, a need because notepad was not cutting the mustard.<br><br>
+This made it easy for me to quick format the listing of cards, prefill them fast, have a detailed string data tail a card...<br>
+I also found this handy for long lists of digital codes from cards, not intended initially for the use but it came together fast when making a record of the data.
 
 The previous versions before 2.5 were simplistic and a bit wonky.<br>
 I just didn't have enough time to invest into this simple app before.
