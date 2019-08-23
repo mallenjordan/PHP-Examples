@@ -1,11 +1,19 @@
 # PHP Examples
 
 ## cards.php
-So there are a few examples here of the card sorter I built here.
+So there are a few examples of the card sorter I have built.
 
-The previous versions before 2.5 were simplistic and a bit wonky.
+### A bit of back information on this.
+So there are many times when some sort of collation is needed. Sports cards, trading cards, etc. They are in mixed lots and I need a way to quick log the information per card and qty, build a fast html table or cvs data spread for excel. That is where this evolved from, a need because notepad was not cutting the mustard.
 
-The true upgrade with 2.8 there were some major
+The previous versions before 2.5 were simplistic and a bit wonky.<br>
+I just didn't have enough time to invest into this simple app before.
+
+I also would not recommend using anything previous to 2.8 the newest evolution of this page.<br>
+I was and have been running it local machine VPN only, so I wont be breaking anything.<br>
+But there is no data cleansing or validation on the earlier versions.<br>
+
+The true upgrade with 2.8 there were some major<br>
 rewrites and changes to the whole script/app.
 - cardStack class; contained card stack object, automatic.
 - superVariable class; self handling variable fitting with forms.
